@@ -1,5 +1,7 @@
 # Standardized Debug
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 This proposal is at Stage 1 of the [TC39 Process](https://tc39.es/process-document/).
 
 ## Motivation
